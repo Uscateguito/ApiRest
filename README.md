@@ -5,3 +5,5 @@
 Este es un pequeño programa en el cual haciendo uso de flask, se crea un pequeño servidor con los cuatro endPoints básicos del protocolo HTTP: GET, POST, PUT, DELETE
 
 La explicación de conceptos clave sobre REST y HTTP se pueden encontrar en la wiki de este proyecto.
+
+Para hacer la prueba también se cuenta con un pequeño cliente que hace las peticiones básicas al servidor.
