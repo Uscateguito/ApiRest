@@ -1,6 +1,6 @@
 # API REST
 
-![APIrest](https://github.com/Uscateguito/ApiRest/assets/103542486/8d9813e0-267c-4557-939e-fa7e3813988f)
+![apirestpagoda](https://github.com/Uscateguito/ApiRest/assets/103542486/4a87772e-baf2-4c5d-aa9a-6703996c54eb)
 
 RESTful: Arquitectura de software que se utiliza en el desarrollo de los servicios web.
 REST: Representational State Transfer::Transferencia de representación de estado.
